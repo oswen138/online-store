@@ -1,0 +1,10 @@
+body{
+  background-image: url(https://ak.picdn.net/shutterstock/videos/22178932/thumb/1.jpg);
+}
+.container{
+  text-align: center;
+}
+#form1{
+  text-align: left;
+  font-weight: bolder;
+}
